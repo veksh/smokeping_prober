@@ -1,4 +1,4 @@
-module github.com/superq/smokeping_prober
+module github.com/veksh/smokeping_prober
 
 go 1.14
 

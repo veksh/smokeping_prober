@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/go-ping/ping"
-	"github.com/superq/smokeping_prober/config"
+	"github.com/veksh/smokeping_prober/config"
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
